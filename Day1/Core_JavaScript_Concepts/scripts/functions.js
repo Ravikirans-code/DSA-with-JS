@@ -1,0 +1,8 @@
+const myfunc = () =>{
+
+}
+
+function myfunc(){
+
+}
+

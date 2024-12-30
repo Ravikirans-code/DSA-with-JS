@@ -135,6 +135,7 @@ A complete plan to master Data Structures and Algorithms (DSA) using JavaScript.
 
 ## **Tips for Success**
 - **Consistency**: Dedicate 1-2 hours daily to learning and practice.
+- **Practise and Test**: Use tools like [VisuAlgo](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) for test your knowldge.
 - **Visualization Tools**: Use tools like [VisuAlgo](https://visualgo.net) for visual understanding.
 - **Code Regularly**: Write implementations in plain JavaScript.
 - **Join Communities**: Engage with coding groups for motivation and help.
