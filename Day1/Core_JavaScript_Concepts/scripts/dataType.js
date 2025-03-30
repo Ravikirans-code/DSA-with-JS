@@ -22,12 +22,10 @@ const cars = ["Saab", "Volvo", "BMW"];
 // Date object:
 const date = new Date("2022-03-25");
 
-
 // console.log(length + weight) // addition with number and returns number
 // console.log(length + color) // type converted to string, return string
 // console.log(length + true) // true will be treated as Number 1, return number
 // console.log(weight + false) // false will be treated as Number 0, return number
-
 
 // console.log('Negative operation')
 // console.log(length - weight) // addition with number and returns number
